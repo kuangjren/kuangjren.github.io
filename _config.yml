@@ -5,8 +5,7 @@ header-img: img/home-bg.jpg
 email: ouyangzi75@gmail.com
 description: "这里是 kjr 的博客，与你分享我对一些事的看法| 要做一个有独立思考能力的人"
 keyword: "狂锦人, 狂人, 狂, 狂锦人博客, Kjr Blog, 博客, 个人网站,  设计"
-url: "https://huangxuan.me" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+
 
 # Publish posts or collection documents with a future date.
 future: true
